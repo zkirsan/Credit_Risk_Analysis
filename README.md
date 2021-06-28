@@ -39,4 +39,6 @@ The following table compares how different classifiers predict credit risk.
 
 ## Summary
 
-The Easy Ensemble Classifier is clearly the most efficient model, with the highest accuracy precision, recall, and f1-score. Even so, we should be extremely cautious about the 9 percent precision that it provides for High Risk Loans in the Easy Ensemble Adaboost Classifier. In addition to that, as you see above on the tables after using SMOTEEN with two different classifiers, it is clear that some accuracy, recall and precision have improved. 
+The Easy Ensemble Classifier is clearly the most efficient model, with the highest accuracy precision, recall, and f1-score. Even so, we should be extremely cautious about the 9 percent precision that it provides for High Risk Loans in the Easy Ensemble Adaboost Classifier.
+
+In addition to that, as you see above on the tables after using SMOTEEN with two different classifiers, it is clear that some accuracy, recall and precision have improved. 
