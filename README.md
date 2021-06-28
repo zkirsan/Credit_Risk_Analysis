@@ -21,10 +21,6 @@ The following table compares how different classifiers predict credit risk.
     - SMOTE
 <p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Imbalanced_Classification_Report.PNG"></img></p>
 
-    - Undersampling
-
-<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/Undersampling.PNG"></img></p>
-
     - Cluster Centroid Undersampling
 
 <p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroid_UnSampl_Imbalanced_Classification_Report.PNG"></img></p>
@@ -45,8 +41,4 @@ The following table compares how different classifiers predict credit risk.
 
 Summary:
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
-
-
-<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Imbalanced_Classification_Report.PNG"></img></p>
+The Easy Ensemble Classifier is clearly the most efficient model, with the highest accuracy precision, recall, and f1-score Even so, we should be extremely cautious about the 9 percent precision that it provides for High Risk Loans in the Easy Ensemble Adaboost Classifier. In addition to that, as you see above on the tables after using SMOTEEN with two different classifiers, it is clear that some accuracy, recall and precision have improved. 
