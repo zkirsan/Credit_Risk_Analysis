@@ -12,7 +12,7 @@ Then, to predict credit risk, I will compare two new machine learning models tha
 
 ## Results
 
-Here is a comparison of how different classifiers predict credit risk.
+The following table compares how different classifiers predict credit risk.
 
     - Oversampling_Naive Random Oversampling 
 
