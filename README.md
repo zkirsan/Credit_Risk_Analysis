@@ -2,8 +2,6 @@
 
 Supervised Machine Learning and Credit Risk
 
-Overview of the loan prediction risk analysis:
-
 ## Overview of the Project
 
 The project aims to use different techniques to train and evaluate models with unbalanced classes. Also, it is going to be used by the imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. 
@@ -14,7 +12,20 @@ Then, to predict credit risk, I will compare two new machine learning models tha
 
 ## Results
 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
+Here is a comparison of how different classifiers predict credit risk.
+
+    - Oversampling_Naive Random Oversampling 
+
+<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/Oversampling_Imbalanced_Classification_Report.PNG"></img></p>
+
+    - SMOTE
+<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Imbalanced_Classification_Report.PNG"></img></p>
+
+    - Undersampling
+
+<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Imbalanced_Classification_Report.PNG"></img></p>
+
+
 
 ## Summary
 
