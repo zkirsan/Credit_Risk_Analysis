@@ -23,9 +23,23 @@ Here is a comparison of how different classifiers predict credit risk.
 
     - Undersampling
 
-<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Imbalanced_Classification_Report.PNG"></img></p>
+<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/Undersampling.PNG"></img></p>
 
+    - Cluster Centroid Undersampling
 
+<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/Cluster_Centroid_UnSampl_Imbalanced_Classification_Report.PNG"></img></p>
+
+    - Combination (Over and Under) Sampling
+
+<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/SMOTEEN_Imbalanced_Classification_Report.PNG"></img></p>
+
+    - Balanced Random Forest Classifier
+
+<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/BalancedRandomForest_Imbalanced_Classification_Report.PNG"></img></p>
+
+    - Easy Ensemble AdaBoost Classifier
+
+<p align="center"><img src="https://github.com/zkirsan/Credit_Risk_Analysis/blob/main/Resources/EasyEnsemble_Adaboost_Imbalanced_Classification_Report.PNG"></img></p>
 
 ## Summary
 
