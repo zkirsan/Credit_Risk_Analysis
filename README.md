@@ -6,7 +6,7 @@ Supervised Machine Learning and Credit Risk
 
 The project aims to use different techniques to train and evaluate models with unbalanced classes. Also, it is going to be used by the imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling. 
 
-I will oversample the credit card credit dataset from LendingClub, a peer-to-peer lending services company, using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. The SMOTEENN algorithm will then be used in a combinatorial approach of over- and undersampling.
+I will oversample the credit card credit dataset from LendingClub, using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. The SMOTEENN algorithm will then be used in a combinatorial approach of over- and undersampling.
 
 Then, to predict credit risk, I will compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier. When I'm finished, I'll assess the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
 
